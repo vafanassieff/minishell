@@ -1,2 +1,3 @@
-# minishell
-Create a simple shell @42
+# Minishell
+
+A simple shell written in C
